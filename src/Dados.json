@@ -1,0 +1,107 @@
+{
+    "Sites": [
+      {
+        "nome": "Scielo Brasil",
+        "descrição": "Artigo científico que fala sobre o estado que a saúde mental do Brasileiro se encontra.",
+        "url": "https://www.scielo.br/j/csp/a/WwQjPXP47HByZVtpHvvZXBh/"
+      },
+      {
+        "nome": "Biblioteca virtual em saúde",
+        "descrição": "Artigo que fala sobre a maior revisão mundial sobre saúde publicada pela a oms.",
+        "url": "https://bvsms.saude.gov.br/oms-divulga-informe-mundial-de-saude-mental-transformar-a-saude-mental-para-todos/"
+      },
+      {
+        "nome": "Secretaria da saúde do Paraná",
+        "descrição": "Artigo que abrange o tema do que é a saúde mental.",
+        "url": "https://www.saude.pr.gov.br/Pagina/Saude-Mental#:~:text=A%20Saúde%20Mental%20de%20uma,Aceitar%20as%20exigências%20da%20vida"
+      },
+      {
+        "nome": "Hospital Santa Monica",
+        "descrição": "Artigo que destaca a importancia da saúde mental e como podemos cuidar dela.",
+        "url": "https://hospitalsantamonica.com.br/a-saude-mental-e-a-importancia-dela-na-vida-das-pessoas/#:~:text=Sumariamente%2C%20o%20bom%20estado%20mental,familiar%20mais%20harmônica%20e%20segura."
+      },
+      {
+        "nome": "Jornal da Usp",
+        "descrição": "Essa materia fala sobre como os transtornos mentais cresceram no Brasil devido a Pandemia.",
+        "url": "https://jornal.usp.br/atualidades/numero-de-brasileiros-com-transtornos-mentais-preocupa-especialistas/"
+      }
+    ],
+    "sitesDeAjuda": [
+      {
+        "nome": "Vittude",
+        "descrição": "A vittude é uma plataforma que busca conectar psicologos a pessoas que estão a procura de terapia, As consultas podem ser tanto presenciais quanto em um consultorio virtual.",
+        "url": "https://www.vittude.com"
+      },
+      {
+        "nome": "ABRATA",
+        "descrição": "Abrata é uma associação civil sem fins lucrativos, no site se encontra grupos de apoio para jovens e adultos portadores de transtornos de humor.",
+        "url": "https://www.abrata.org.br"
+      },
+      {
+        "nome": "Grupo Pesquisa",
+        "descrição": "Oferece grupos de terapia comunitaria e espaços de escuta para jovens adultos em busca de terapia.",
+        "url": "https://www.gruposaudemental.com/rodasdeterapia"
+      },
+      {
+        "nome": "Mapa Saúde Mental",
+        "descrição": "Oferece diversas iniciativas de atendimento gratuito/voluntário online ",
+        "url": "https://mapasaudemental.com.br/atendimentos-online/"
+      }
+    ],
+    "urls": [
+      "https://www.youtube.com/watch?v=YD7Q2MoR_gY&pp=ygUcb21vcmkgcmVtZW5iZXIgdG8gYmUgcGF0aWVudA%3D%3D",
+      "https://www.youtube.com/watch?v=khr33grtujE&pp=ygUZb21vcmkgYSBwbGFjZSBieSB0aGUgbGFrZQ%3D%3D",
+      "https://www.youtube.com/watch?v=MuAwSynjSe0&pp=ygUQaGF6eSBuaWdoc3Qgc3RheQ%3D%3D",
+      "https://www.youtube.com/watch?v=9aED02XuLwo&pp=ygUVYXNsZWVwIGFtb25nIGVuZGl2ZXMg",
+      "https://www.youtube.com/watch?v=9d9e6XmNn9Q&pp=ygURb21vcmkgdGl0bGUgdGhlbWU%3D",
+      "https://www.youtube.com/watch?v=ACon4txJiDA&pp=ygUKb21vcmkgZHVldA%3D%3D",
+      "https://www.youtube.com/watch?v=i2fezyjs_aY",
+      "https://www.youtube.com/watch?v=v1uc29CJg5M",
+      "https://www.youtube.com/watch?v=Kxf96KNYZjs",
+      "https://www.youtube.com/watch?v=ZM_Gamwxvtc&pp=ygUMdGhpcyBpcyBob21l",
+      "https://www.youtube.com/watch?v=3DY5dsjrO1M",
+      "https://www.youtube.com/watch?v=04CQE4wCezA&pp=ygUVdGhlc2UgZGF5cyBzZXZlbi10aW1l",
+      "https://www.youtube.com/watch?v=r9I4AINwrrc",
+      "https://www.youtube.com/watch?v=p39sZg0Bh2k&pp=ygUTdGVhIHRpbWUgZG9vbCBob3VzZQ%3D%3D",
+      "https://www.youtube.com/watch?v=WEoG14GPYB4",
+      "https://www.youtube.com/watch?v=U-Ooxpz0Eqk&pp=ygUac29tZXdoZXJlIG92ZXIgdGhlIHJhaW5ib3c%3D",
+      "https://www.youtube.com/watch?v=PcZdQbgSQvs&pp=ygUTZm9yZXZlciBnbGFzcyBiZWFjaA%3D%3D",
+      "https://www.youtube.com/watch?v=-SDWFvsN2lw&pp=ygUMaHlwZXIgYmFsbGFk",
+      "https://www.youtube.com/watch?v=2cC8n4tSrCM&pp=ygUYaSBtaXNzIGhhdmluZyBzbGVlcG92ZXJz",
+      "https://www.youtube.com/watch?v=s3KFvddSrzk&pp=ygUQcGFyZWlkb2xpYSB0c3VraQ%3D%3D",
+      "https://www.youtube.com/watch?v=R0FnYl1wDOQ&pp=ygUXc2VsZWN0IHlvdXIgZHJpdmVyIGFsZXg%3D",
+      "https://www.youtube.com/watch?v=C4sJC7iOsmc&pp=ygUUaGVhcnQgZXBpbG9ndWUgdHN1a2k%3D",
+      "https://www.youtube.com/watch?v=daVhxk1Yx20&pp=ygUWbGFieXJpbnRoaW5lIG1pbmVjcmFmdA%3D%3D",
+      "https://www.youtube.com/watch?v=POLg-0WWXJE&pp=ygUic25vdyBmb3Jlc3QgYSBzaW5nbGUgZmxvd2VyIGJsb29tcw%3D%3D",
+      "https://www.youtube.com/watch?v=eVF_CRVFJ-Y",
+      "https://www.youtube.com/watch?v=7GIWV__qx4M",
+      "https://www.youtube.com/watch?v=O8lnQp3sX-s",
+      "https://www.youtube.com/watch?v=YHO6EDIbGlk",
+      "https://www.youtube.com/watch?v=rDwWbW94GzQ",
+      "https://www.youtube.com/watch?v=2AdrEr68wQE",
+      "https://www.youtube.com/watch?v=MKFDGlX2tTc",
+      "https://www.youtube.com/watch?v=F8ejqbrx4jc",
+      "https://www.youtube.com/watch?v=obbqxbXjRhc",
+      "https://www.youtube.com/watch?v=jb1SkDjaXk8",
+      "https://www.youtube.com/watch?v=BNBZ1hUnMec",
+      "https://www.youtube.com/watch?v=zJ8w2y1eZec",
+      "https://www.youtube.com/watch?v=jGwNlxEKNeA",
+      "https://www.youtube.com/watch?v=ai0BRueCP_E",
+      "https://www.youtube.com/watch?v=8j7O16-4Aqk",
+      "https://www.youtube.com/watch?v=8VrBX6LTeZs",
+      "https://www.youtube.com/watch?v=H_3D3Q2iWPs",
+      "https://www.youtube.com/watch?v=fcmA1pXobdw",
+      "https://www.youtube.com/watch?v=yUcIaHh4HEA",
+      "https://www.youtube.com/watch?v=xCx1eSdkyr0"
+    ],
+    "soundUrls": [
+      "https://www.youtube.com/watch?v=mPZkdNFkNps",
+      "https://www.youtube.com/watch?v=qRTVg8HHzUo",
+      "https://www.youtube.com/watch?v=xNN7iTA57jM",
+      "https://www.youtube.com/watch?v=iSsUDNHs8Ms",
+      "https://www.youtube.com/watch?v=dR_3g5WCdHs",
+      "https://www.youtube.com/watch?v=la_AEFO8m7U",
+      "https://www.youtube.com/watch?v=4vIQON2fDWM"
+    ]
+  }
+  
